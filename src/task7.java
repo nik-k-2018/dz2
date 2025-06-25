@@ -4,6 +4,7 @@ public class task7 {
         int two = 20;
         int three = 15;
 
+
         if (one >= two && one >= three) {
             System.out.println("Наибольшее число: " + one);
         } else if (two >= one && two >= three) {
