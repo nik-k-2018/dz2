@@ -3,6 +3,7 @@ public class task5 {
         int age = 10;
         boolean hasAdult = true;
 
+
         if (age < 5) {
             System.out.println("Если возраст ребенка равен " + age + ", то ему нельзя кататься на аттракционе");
         } else if (age >= 5 && age < 14) {
